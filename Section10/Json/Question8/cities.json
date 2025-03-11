@@ -1,0 +1,29 @@
+{
+  "cities": [
+    {
+      "name": "تهران",
+      "population": 9000000,
+      "area": 730
+    },
+    {
+      "name": "اصفهان",
+      "population": 2000000,
+      "area": 10700
+    },
+    {
+      "name": "شیراز",
+      "population": 1500000,
+      "area": 240
+    },
+    {
+      "name": "مشهد",
+      "population": 3000000,
+      "area": 400
+    },
+    {
+      "name": "تبریز",
+      "population": 1600000,
+      "area": 245
+    }
+  ]
+}
